@@ -18,7 +18,8 @@ Starting from now will be a "tutorial" on how to achieve this blissfull setup th
 
 ### Table of contents
 * [Installing Ryujinx](#installing-ryujinx)
-    * [Open Ryujinx](#open-ryujinx)
+   * [Extract to a memorable place](#extract-to-a-memorable-place) 
+   * [Open Ryujinx](#open-ryujinx)
 * [Getting your prod.keys, title.keys & firmware](#getting-your-prodkeys-titlekeys--firmware)
 * [Installing your prod.keys, title.keys & firmware to Ryujinx](#installing-your-prodkeys-titlekeys--firmware-to-ryujinx)
    * [Extract Prodkeys](#extract-prodkeys)
