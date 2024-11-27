@@ -21,6 +21,8 @@ Starting from now will be a "tutorial" on how to achieve this blissfull setup th
     * [Open Ryujinx](#open-ryujinx)
 * [Getting your prod.keys, title.keys & firmware](#getting-your-prodkeys-titlekeys--firmware)
 * [Installing your prod.keys, title.keys & firmware to Ryujinx](#installing-your-prodkeys-titlekeys--firmware-to-ryujinx)
+   * [Extract Prodkeys](#extract-prodkeys)
+   * [Installing the Firmware](#installing-the-firmware)
 * [Setting up a controller for Ryujinx](#setting-up-a-controller-for-ryujinx)
 * [Getting a game for Ryujinx to run](#getting-a-game-for-ryujinx-to-run)
     * [Add a games directory](#add-a-games-directory)
