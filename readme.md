@@ -1,3 +1,6 @@
+> [!WARNING]  
+> The website to obtain the ROMS has been taken down by the government so half of this guide cannot be followed anymore.
+
 # About
 Since going through the effort of getting your firmware, prod.keys, and games from the Nintendo Switch™ using methods along the lines of "[RCM](https://switch.hacks.guide/user_guide/rcm/)" or "[Modchipping](https://switch.hacks.guide/user_guide/modchip/)" was extremely difficult for me to achieve, I managed to find a way that allows not only for you, the user, to **emulate the Nintendo Switch™**, but also **get just about any game from Nintendo®** (if supported by the Nintendo Switch™).
 
@@ -178,3 +181,4 @@ Yea, thats really it. Simple right? It's truely crazy how easy this is to just b
 ![Gif of the final outcome, running the game](final-outcome.gif)
 
 2019-2024 &copy; Wo-r 
+
